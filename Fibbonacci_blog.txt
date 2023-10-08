@@ -1,0 +1,25 @@
+Altın oran kavramını hayatımızın birçok yerinde görmüşüzdür.Örneğin deniz kabukları.Herbir deniz kabuğu spirali sarımları birbiriyle büyük oranda benzerlik gösterir.Deniz kabuğundaki eğrilik aslında tam bir altın oran örneğidir.
+Bu eşsiz güzelliklerin ve birbirleriyle aynı oranda olmasının bir sebebi var.Altın oran..
+
+Altın oran antik çağlardan günümüze kadar güzelliğin,estetiğin ve uyumun bağlantısı olarak kabul edilir.Altın oran kavramı nereden çıktı nasıl bu kadar popüler oldu derseniz Leonarda Fibbonacci den bahsetmemek olmaz.
+
+Fibbonacci kendi adıyla meşhur bir seri üretti.Bu seriye bakıp mantığını anlamaya çalışalım.
+Fibbonaci serisi kendineden önce gelen sayıların toplamından oluşur.Örneğin 0 ve 1 sayısı elimizde olsun bu iki sayının toplamı 1 eder.1 den sonra gelen sayılarada aynı işlemleri yapıp hep son 2 sayıyı toplarız.
+
+Ve bu sonuçlar ortaya çıkar :
+0+1=1
+1+1=2 
+1+2=3 
+2+3=5 
+3+5=8 
+5+8=13 
+... ve böyle devam eder..
+
+Fibbonaci sayısının altın oran ile bağlantısı ise benzersiz bir matematiksel ilişkidir. (a+b) sayılarının toplamının büyük sayıya (a) oranı, büyük sayının küçük sayıya (a/b) oranına eşitse, iki sayı altın orandadır.
+2/1=2
+3/2=1,5
+5/3=1,6666
+8/5=1,6
+13/8=1,625
+ve bu sayılar büyüdükçe altın oran sayısına yaklaşır. 
+Altın oran yaklaşık 1,618'dir.
